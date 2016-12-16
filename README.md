@@ -11,14 +11,9 @@
 * 簡介
 
 * 快速上手
-
   * Spark Shell
-
   * 獨立應用程序
-
   * 開始翻滾吧!
-
-
 
 * 編程指南
   * 引入 Spark
@@ -27,26 +22,18 @@
   * 並行集合
   * 外部資料集
   * RDD 的操作
-
-  * 
-
-
-
-
-* 傳遞函數到 Spark
-* 了解 closures
-* 使用鍵值對
-* 轉換
-* 行動
-* Shuffle操作
-* RDD持續化
-
-共享變數
-
-部署集群  
-從Java/Scala發布Spark工作  
-單元測試  
-從這裡開始
+  * 傳遞函數到 Spark
+  * 了解 closures
+  * 使用鍵值對
+  * 轉換
+  * 行動
+  * Shuffle操作
+  * RDD持續化
+  * 共享變數
+  * 部署集群  
+  * 從Java/Scala發布Spark工作  
+  * 單元測試  
+  * 從這裡開始
 
 * Spark Streaming
   * 一個快速的例子
