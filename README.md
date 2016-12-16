@@ -1,6 +1,5 @@
-# spark-2.0-programming-guide-zh-tw
-
 * 參考 [swift正體中文專案](https://github.com/tommy60703/the-swift-programming-language-in-traditional-chinese) 與 [TaiwanSparkUserGroup Spark 編程指南繁體中文版](https://github.com/TaiwanSparkUserGroup/spark-programming-guide-zh-tw/blob/master/CONTRIBUTING.rst) 的貢獻方式
+
 貢獻力量
 --------
 如果想做出貢獻的話，你可以：
@@ -8,6 +7,7 @@
 - 幫忙校對，挑錯別字、語病等等
 - 提出修改建議
 - 提出術語翻譯建議，例如 closure 該如何翻譯較佳
+
 翻譯建議
 --------
 如果你願意一起校對的話，請仔細閱讀：
