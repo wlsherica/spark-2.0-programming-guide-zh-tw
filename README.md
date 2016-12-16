@@ -1,6 +1,6 @@
 # spark-2.0-programming-guide-zh-tw
 
-* 參考[swift正體中文專案](https://github.com/tommy60703/the-swift-programming-language-in-traditional-chinese)與[TaiwanSparkUserGroup Spark 編程指南繁體中文版](https://github.com/TaiwanSparkUserGroup/spark-programming-guide-zh-tw/blob/master/CONTRIBUTING.rst)的貢獻方式
+* 參考 [swift正體中文專案](https://github.com/tommy60703/the-swift-programming-language-in-traditional-chinese) 與 [TaiwanSparkUserGroup Spark 編程指南繁體中文版](https://github.com/TaiwanSparkUserGroup/spark-programming-guide-zh-tw/blob/master/CONTRIBUTING.rst) 的貢獻方式
 貢獻力量
 --------
 如果想做出貢獻的話，你可以：
