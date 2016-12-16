@@ -21,21 +21,26 @@
 
 
 * 編程指南
-* 引入 Spark
-* 初始化 Spark
-* Spark RDDs
-* 並行集合
-* 外部資料集
-* RDD 的操作
+  * 引入 Spark
+  * 初始化 Spark
+  * Spark RDDs
+  * 並行集合
+  * 外部資料集
+  * RDD 的操作
 
-基本功  
-傳遞函數到 Spark  
-了解 closures  
-使用鍵值對  
-轉換  
-行動  
-Shuffle操作  
-RDD持續化
+
+
+  * 基本功
+
+
+
+* 傳遞函數到 Spark
+* 了解 closures
+* 使用鍵值對
+* 轉換
+* 行動
+* Shuffle操作
+* RDD持續化
 
 共享變數
 
@@ -78,6 +83,7 @@ RDD持續化
   * 開始
 
   * 資料來源
+
     * 常見載入與儲存函數
     * Parquet文件
     * JSON資料集
